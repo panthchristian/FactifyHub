@@ -1,0 +1,8 @@
+Technology : #3772FF
+Science : #45B26B
+Finance : #EF466F
+Society : #FFBC00
+Entertainment : #be87ff
+Health : #22d3ee
+History : #FF592C
+News : #735ffa
